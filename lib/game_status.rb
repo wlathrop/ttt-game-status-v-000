@@ -54,4 +54,3 @@ def over?(board)
   end
 end
 
-d
